@@ -4,4 +4,5 @@
 - Beautiful clock in retro style.
 - Contains an analog and digital clock.
 - Shows the current date.
+- Responsive design.
 
